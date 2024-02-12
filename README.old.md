@@ -12,4 +12,5 @@ https://github.com/techendeavor/react-todo-app
 - [x] 1.1. Setting up the Project 
 - [x] 1.2. Components and Props
 - [x] 1.3. State & Form Handling
-- [ ] 1.4. CRUD Update and Delete
+- [x] 1.4. CRUD Update and Delete
+- [ ] design frontend cuu chuong app.
